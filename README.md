@@ -11,5 +11,5 @@ A: Code.org because I was bored in math class.
 Q: What the **** is a ".knit" file?  
 A: The .py of wovenscript.  
 
-Q: How do I install it?
-A: Releases tab on the github repository.
+Q: How do I install it?  
+A: Releases tab on the github repository.  
