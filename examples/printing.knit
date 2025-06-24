@@ -1,3 +1,7 @@
 out
-  text;Goodbye Space
+  text;Goodbye Space..
   color;#00aeff
+
+out
+  text;Hello World!
+  color;#ffae00
