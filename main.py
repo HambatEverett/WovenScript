@@ -1,7 +1,8 @@
 # last updated:
 # 6/23/25
+thefile = input("What file?")
 
-script = open("testfile.knit","r")
+script = open(thefile,"r")
 
 def hex_to_rgb(hex_color):
     hex_color = hex_color.lstrip("#")
