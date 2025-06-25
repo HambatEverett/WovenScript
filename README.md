@@ -1,12 +1,6 @@
 # WovenScript
 ## A *very* high level programming language
-### Written in python.
 
-Q: Why?  
-A: Because ANSI escape codes suck.  
+**WovenScript** is a simple, made for non-programmers programming language, which is designed to encourage people to try programming, and learn a real language like python or C++.  
 
-Q: What the **** is a ".knit" file?  
-A: The .py of wovenscript.  
-
-Q: How do I install it?  
-A: Releases tab on the github repository.  
+To install, go to the releases tab and open the zip file of the latest release (Or the preferred one you want to use), then run `python3 where/file/is/main.py` (if you dont have python3, install it)  
